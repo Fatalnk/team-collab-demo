@@ -1,3 +1,6 @@
 # team-collab-demo
+Project Alpha
+<<<<<<< conf2
 Project Beta
-Project Beta
+=======
+>>>>>>> develop
